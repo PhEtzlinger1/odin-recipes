@@ -1,0 +1,18 @@
+/* styles.css */
+
+img {
+    height: 400 px;
+    width: auto;
+}
+
+div, ul, p, h1, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 80 px;
+}
+
+h3 {
+    font-size: 40 px;
+}
